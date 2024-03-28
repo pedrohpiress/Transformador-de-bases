@@ -1,0 +1,17 @@
+body{
+    background-color: #1641A4;
+    color: rgb(247, 240, 240);
+}
+
+.container{
+    justify-content: center;
+    width: 500px;
+    height: 400px;
+    background-color: #15D6B0;
+}
+
+.box{
+    display: flex;
+    margin: 0, 0;
+    justify-content: center;
+}
